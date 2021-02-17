@@ -3,6 +3,6 @@ A Brick Breaker clone created with the help of Imphenzia's excellent YouTube tut
 
 Known Issues:
 
-Walls are only in the correct position in 16:9 resolution
+Walls are only in the correct position in 16:9 aspect ratio.
 
 Paddle constraints are not correctly positioned.
